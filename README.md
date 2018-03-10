@@ -1,2 +1,2 @@
 # Search
- Search algorithms for demo purpose
+This program demonstrates Rabin-Karp algorithm
