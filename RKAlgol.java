@@ -5,8 +5,8 @@ public class RKAlgol {
     private static int prime = 101;
     private static int num_of_chars=256; // number of characters in alphabets
     public static void main(String[] args) {
-        String pattern = "This program demonstrates Rabin-Karp algorithm";
-        String text = "hm";
+        String text = "This program demonstrates Rabin-Karp algorithm";
+        String pattern = "hm";
         int index = RKAlgol.findIndex(pattern, text);
         System.out.println(index);
     }
